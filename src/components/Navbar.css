@@ -1,5 +1,18 @@
-.searchInput {
+.NavBar .logoImg {
+  width: 180px;
+  height: 40px;
+}
+.NavBar .searchInput {
   background-color: rgb(234, 230, 230);
+}
+.NavBar .searchInput:focus {
+  outline: none;
+}
+.NavBar .bi-sliders {
+  margin-left: -40px;
+}
+.NavBar p {
+  font-size: 12px !important;
 }
 
 /*# sourceMappingURL=Navbar.css.map */
