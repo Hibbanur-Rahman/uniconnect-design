@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.f62df080.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.f62df080.js.map": "/static/js/main.f62df080.js.map"
+    "main.css": "/uniconnect-design/static/css/main.f855e6bc.css",
+    "main.js": "/uniconnect-design/static/js/main.f62df080.js",
+    "index.html": "/uniconnect-design/index.html",
+    "main.f855e6bc.css.map": "/uniconnect-design/static/css/main.f855e6bc.css.map",
+    "main.f62df080.js.map": "/uniconnect-design/static/js/main.f62df080.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
