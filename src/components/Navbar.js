@@ -31,7 +31,7 @@ const Navbar = () => {
             <div className="border border-1 w-auto m-0 p-0"></div>
             <div className="col-1 m-0 p-0">
               <i class="bi bi-grid-3x3-gap w-auto fs-2 m-0 p-0"></i>
-              <p className="m-0 p-0 fs-6">More</p>
+              <p className="m-0 p-0 fs-6">More than one</p>
             </div>
           </div>
         </div>
